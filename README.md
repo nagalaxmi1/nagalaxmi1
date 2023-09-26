@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nagalaxmi
-- 🌱 I’m currently doing an internship in module of online api tool with IEEE Bombay...
+- 🌱 I’m currently doing an internship- online api tool with IEEE Bombay...
 - 🎓 i'm pursuing my masters in computer science 
 
 <!---
