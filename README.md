@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @nagalaxmi
-- 🌱 I’m currently doing an internship- online api tool with IEEE Bombay...
-- 🎓 i'm pursuing my masters in computer science 
-
-<!---
-nagalaxmi1/nagalaxmi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👩‍💻 worked as a intern @ IEEE internship 
+- 🎓 i'm pursuing my masters in computer science
+- 😀 now interested in learning new things @ meta craft's new summer internship2024
+  
